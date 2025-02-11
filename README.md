@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Ola, me chamo Antônio Arcelino Nogueira Neto<br>👀 Estou interessado em desenvolver meu conhecimento em programação e desenvolvimento de softwares.<br>🌱 Atualmente realizando um curso tecnico de TI (3°ano)<br>👨‍💼 Estou procurando melhorar meus conhecimentos e se possivel, estagiar em alguma empresa.<br>📫 Contato: instagram - @toniiiih_ / email - antonio.nogueiraneto977@gmail.com
+# 👨‍💻 Sobre mim:
+👋 Ola, me chamo Antônio Arcelino Nogueira Neto<br>💻  Tenho grande interesse em expandir meus conhecimentos em programação e desenvolvimento de software.<br>🎓 Atualmente, estou cursando o 3º ano do técnico em TI<br>🚀 Busco aprimorar minhas habilidades e, se possível, encontrar uma oportunidade de estágio em uma empresa.<br>📫 Contato: instagram - @toniiiih_ / email - antonio.nogueiraneto977@gmail.com
 
 
 ## 🌐 Socials:
